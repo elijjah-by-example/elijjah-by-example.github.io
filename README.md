@@ -8,5 +8,5 @@ Structure
 
 Hello, World
 
-[Primitives](primitives.md)
+[Primitives](primitives/)
 
