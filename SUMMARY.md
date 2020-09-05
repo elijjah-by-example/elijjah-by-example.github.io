@@ -1,16 +1,15 @@
-# Summary
+# Table of contents
 
-[Introduction](index.md)
+* [Introduction](README.md)
+* [Hello World](hello-world/README.md)
+  * [Comments](hello-world/comments.md)
+  * [Formatted print](hello-world/formatted-print/README.md)
+    * [Debug](hello-world/formatted-print/debug.md)
+    * [Display](hello-world/formatted-print/display/README.md)
+      * [Testcase: List](hello-world/formatted-print/display/testcase-list.md)
+    * [Formatting](hello-world/formatted-print/formatting.md)
+* [Primitives](primitives/README.md)
+  * [Literals and operators](primitives/literals.md)
+  * [Tuples](primitives/tuples.md)
+  * [Arrays and Slices](primitives/arrays-and-slices.md)
 
-- [Hello World](hello.md)
-    - [Comments](hello/comment.md)
-    - [Formatted print](hello/print.md)
-        - [Debug](hello/print/print_debug.md)
-        - [Display](hello/print/print_display.md)
-            - [Testcase: List](hello/print/print_display/testcase_list.md)
-        - [Formatting](hello/print/fmt.md)
-
-- [Primitives](primitives.md)
-    - [Literals and operators](primitives/literals.md)
-    - [Tuples](primitives/tuples.md)
-    - [Arrays and Slices](primitives/array.md)
