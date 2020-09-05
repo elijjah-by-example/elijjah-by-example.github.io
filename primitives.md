@@ -61,12 +61,12 @@ class Main {
 }
 ```
 
-//### See also:
+// ### See also:
 
-//[the `std` library][std], [`mut`][mut], [inference], and [shadowing]
+// [the `std` library][std], [`mut`][mut], [inference], and [shadowing]
 
-//[std]: https://doc.rust-lang.org/std/
-//[mut]: variable_bindings/mut.md
-//[inference]: types/inference.md
-//[shadowing]: variable_bindings/scope.md
+// [std]: https://doc.rust-lang.org/std/
+// [mut]: variable_bindings/mut.md
+// [inference]: types/inference.md
+// [shadowing]: variable_bindings/scope.md
 
