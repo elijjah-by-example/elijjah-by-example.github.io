@@ -13,3 +13,14 @@
   * [Tuples](primitives/tuples.md)
   * [Arrays and Slices](primitives/arrays-and-slices.md)
 
+* [Installing](installing.md)
+
+* [Structure](code_structure.md)
+
+* [Hello, World](hello.md)
+
+* [Primitives](primitives/)
+
+* [Structures](structs.md)
+
+* [Types](types.md)
