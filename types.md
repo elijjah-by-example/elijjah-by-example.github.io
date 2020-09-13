@@ -33,9 +33,9 @@ namespace {
             WebEvent.KeyPress(c) { println("pressed '{}'.", c) }
             WebEvent.Paste(s) => println("pasted \"{}\".", s) }
             // Destructure `Click` into `x` and `y`.
- <!--           WebEvent.Click { x, y } => {
-                println!("clicked at x={}, y={}.", x, y);
-            },-->
+ //           WebEvent.Click { x, y } => {
+ //               println!("clicked at x={}, y={}.", x, y);
+ //           },
         }
     }
 
@@ -46,7 +46,7 @@ class Main {
         val pressed = WebEvent.KeyPress('x');
         // `to_owned()` creates an owned `String` from a string slice.
         val pasted  = WebEvent.Paste("my text".to_owned());
-<!--        val click   = WebEvent::Click { x: 20, y: 80 }; -->
+        //val click   = WebEvent::Click { x: 20, y: 80 }; 
         val load    = WebEvent.PageLoad;
         val unload  = WebEvent.PageUnload;
 
