@@ -2,7 +2,7 @@
 
 Elijjah is a language that helps developers get work done quickly.
 
-Most of this is cribbed from [The Rust Book](https://doc.rust-lang.org/book/), with appropriate changes for **Elijjah**.
+Most of this is cribbed from [Rust By Example](https://doc.rust-lang.org/rust-by-example/), with appropriate changes for **Elijjah**.
 
 ## Sections
 
@@ -14,3 +14,6 @@ Most of this is cribbed from [The Rust Book](https://doc.rust-lang.org/book/), w
 
 [Primitives](primitives/)
 
+[Structures](structs.md)
+
+[Types](types.md)
