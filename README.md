@@ -1,12 +1,16 @@
 # Introduction
 
-[Introduction](intro.md)
+Elijjah is a language that helps developers get work done quickly.
 
-Installing
+Most of this is cribbed from [The Rust Book](https://doc.rust-lang.org/book/), with appropriate changes for **Elijjah**.
 
-Structure
+## Sections
 
-Hello, World
+[Installing](installing.md)
+
+[Structure](code_structure.md)
+
+[Hello, World](hello.md)
 
 [Primitives](primitives/)
 
