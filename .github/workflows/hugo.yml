@@ -15,5 +15,5 @@ jobs:
       env:
         GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
         HUGO_VERSION: "0.53"
-        WEBSITE_GIT: "git@github.com:LinuxSuRen/linuxsuren.github.io.git"
-        WEBSITE_DIR: "linuxsuren.github.io"
+        WEBSITE_GIT: "git@github.com:elijjah-by-example/elijjah-by-example.github.io.git"
+        WEBSITE_DIR: "elijjah-by-example.github.io"
